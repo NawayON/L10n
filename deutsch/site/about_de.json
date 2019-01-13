@@ -7,21 +7,21 @@
     },
     {
       "to_translate": "Qui sommes-nous ?",
-      "translation": "",
+      "translation": "Wer sind wir ?",
     }
   ],
    "content":
    [
     {
       "to_translate": "À propos du moteur",
-      "translation": "",
+      "translation": "Über den Motor",
     },
     {
       "to_translate": "C'est un moteur de jeu. Avec celui-ci, vous pourrez créer vos propres jeux de A à Z.",
       "translation": "",
     },
     {
-      "to_translate": "Que peut t'on créer avec?",
+      "to_translate": "Que peut t'on créer avec ?",
       "translation": "",
     },
     {
@@ -30,14 +30,14 @@
     },
     {
       "to_translate": "SUIVEZ TOUTE L'ACTUALITÉ SUR NOTRE WEBTV: AUSTELTV !",
-      "translation": "",
+      "translation": "FOLGEN SIE ALLE NACHRICHTEN AUF UNSEREM WEBTV: AUSTELTV !",
     },
     {
       "to_translate": "Une diffusion chaque mois !",
-      "translation": "",
+      "translation": "Jeden Monat eine Sendung !",
     },
     {
-      "to_translate": "Pourquoi regarder AustelTV?",
+      "to_translate": "Pourquoi regarder AustelTV? ",
       "translation": "",
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "to_translate": "Suivez toutes les nouveautés d'AustelEngine",
-      "translation": "",
+      "translation": "Verfolgen Sie alle Neuigkeiten von AustelEngine",
     },
     {
       "to_translate": "Restez informé !",
