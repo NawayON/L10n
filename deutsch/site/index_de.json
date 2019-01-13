@@ -23,7 +23,7 @@
     },
     {
       "to_translate": "Compte",
-      "translation": "",
+      "translation": "Konto",
     }
   ],
   "header":
@@ -34,10 +34,10 @@
     },
     {
       "to_translate": "Aucun partenaire !",
-      "translation": "",
+      "translation": "Kein Partner !",
     },
     {
-      "to_translate": "Le devenir? Cliquez ici",
+      "to_translate": "Le devenir ? Cliquez ici",
       "translation": "",
     }
   ],
@@ -53,11 +53,11 @@
     },
     {
       "to_translate": "Publier",
-      "translation": "",
+      "translation": "Veröffentlichen",
     },
     {
       "to_translate": "Explorer",
-      "translation": "",
+      "translation": "Erkunden",
     }
     ,
     {
@@ -78,7 +78,7 @@
     },
     {
       "to_translate": "Un tout en un",
-      "translation": "",
+      "translation": "Alles in einem",
     },
     {
       "to_translate": "Toutes les fonctionnalités directement sur le moteur",
@@ -116,7 +116,7 @@
     },
     {
       "to_translate": "Gratuit",
-      "translation": "",
+      "translation": "kostenlos",
     },
     {
       "to_translate": "Communauté",
