@@ -3,75 +3,74 @@
   [
     {
       "to_translate": "Accueil",
-      "translation": "",
+      "translation": "ترحيب",
     },
     {
       "to_translate": "Fonctionnalités",
-      "translation": "",
+      "translation": "ملامح",
     },
     {
       "to_translate": "Télécharger",
-      "translation": "",
+      "translation": "تحميل",
     },
     {
       "to_translate": "À propos",
-      "translation": "",
+      "translation": "حول",
     },
     {
       "to_translate": "Nouveautés",
-      "translation": "",
+      "translation": "جديد",
     },
     {
       "to_translate": "Compte",
-      "translation": "",
+      "translation": "حساب",
     }
   ],
   "header":
   [
     {
       "to_translate": "Le seul et unique moteur de jeu qui répond à vos besoins.",
-      "translation": "",
+      "translation": "محرك اللعبة الوحيد الذي يلبي احتياجاتك.",
     },
     {
       "to_translate": "Aucun partenaire !",
-      "translation": "",
+      "translation": "لا شريك!",
     },
     {
       "to_translate": "Le devenir? Cliquez ici",
-      "translation": "",
+      "translation": "أصبح؟ انقر هنا",
     }
   ],
     "about_the_engine":
   [
     {
       "to_translate": "Publiez vos jeux partout dans le monde et sur presque toutes les plateformes !",
-      "translation": "",
+      "translation": "نشر الألعاب الخاصة بك في أي مكان في العالم وعلى أي منصة تقريبا!",
     },
     {
       "to_translate": "Créer",
-      "translation": "",
+      "translation": "خلق",
     },
     {
       "to_translate": "Publier",
-      "translation": "",
+      "translation": "نشر",
     },
     {
       "to_translate": "Explorer",
-      "translation": "",
+      "translation": "بحث",
     }
     ,
     {
       "to_translate": "AustelEngine comprend une multitudes de fonctionnalités pour créer ses jeux vidéos. Gérer les interfaces, les graphismes, les sons et encore plus !",
-      "translation": "",
+      "translation": "تتضمن ustelEngine العديد من الميزات لإنشاء ألعاب الفيديو. إدارة واجهات والرسومات والأصوات وأكثر!",
     },
     {
       "to_translate": "Une fois le développement de votre jeu terminé, publiez le à travers le monde sur mobile, console et ordinateur. D'autres plateformes s'ajouteront*",
-      "translation": "",
+      "translation": "بعد اكتمال تطوير لعبتك ، يمكنك نشرها في جميع أنحاء العالم على الجوّال ووحدة التحكم والكمبيوتر. ستضاف منصات أخرى",
     },
     {
-      "to_translate": "Profitez de notre tableau de bord pour voir le nombre d'utilisateurs, les profits que vos jeux ont apporté, et autre donnée pertinante.",
-      "translation": "",
-    },
+      "to_translate":..", 
+  },
     {
       "to_translate": "Lire plus",
       "translation": "",
